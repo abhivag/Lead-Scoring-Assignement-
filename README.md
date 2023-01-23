@@ -13,16 +13,27 @@ LEAD SCORE CASE STUDY
  Solution Methodology :Steps Involved
  
   1) Data Reading & Understanding
+  
  	2) Data Cleaning – checking & handling null/select values
+
  	3) EDA – Univariate / Multivariate Analysis for Categorical Variables & Numerical Variables
+
  	4) Outlier Handling
+
  	5) Data Preparation for Logistic Regression – Dummy creation
+ 	
  	6) Model Building – Test Train split
+ 	
  	7) Feature Scaling of Continuous Variables
+
  	8) Feature Selection using RFE & Automated approach
+ 	
  	9) Plotting the ROC Curve
+
  	10) Finding Optimal Cut-off point 
+ 	
  	11) Precision & Recall
+ 	
  	12) Making Predictions on Test  set
  	
   
